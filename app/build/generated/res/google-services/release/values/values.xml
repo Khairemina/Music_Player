@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">695211756019-qtea49c3mqeinae1jbt8je39ki56qq96.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">695211756019</string>
+    <string name="google_api_key" translatable="false">AIzaSyCvm8bqcwwHQew10bdiJD4p7Y4C2I8TW_k</string>
+    <string name="google_app_id" translatable="false">1:695211756019:android:7f716381950fbeed666a86</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCvm8bqcwwHQew10bdiJD4p7Y4C2I8TW_k</string>
+    <string name="google_storage_bucket" translatable="false">songs-database-c6e0a.appspot.com</string>
+    <string name="project_id" translatable="false">songs-database-c6e0a</string>
+</resources>
