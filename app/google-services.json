@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:695211756019:android:7f716381950fbeed666a86",
         "android_client_info": {
-          "package_name": "com.siddharth_and_rashmi_music_player.music_player"
+          "package_name": "com.siddharth_bhat_music_player.music_player"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "695211756019-t8n0i1vrdtm6gqt58j4la8ljdsm8rt5v.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.siddharth_and_rashmi_music_player.music_player",
+            "package_name": "com.siddharth_bhat_music_player.music_player",
             "certificate_hash": "c18f7d7b3dd505c446e707d2dab7350d7857ae8a"
           }
         },
